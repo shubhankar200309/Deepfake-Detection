@@ -51,7 +51,7 @@ A Flask-powered web application that uses PyTorch, OpenCV, and a custom ResNeXtâ
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/priyanka350/DeepfakeDetection.git
+   git clone https://github.com/shubhankar200309/Deepfake-Detection.git
    cd DeepfakeDetection
      ```
 
@@ -65,7 +65,7 @@ A Flask-powered web application that uses PyTorch, OpenCV, and a custom ResNeXtâ
    
    - Each model (`*.pt`, \~2.1â€¯GB) is hosted on Google Drive.
     [Download all models here](https://drive.google.com/drive/folders/1cPd5iYyPtB_B2J3sJgnZ0GmcLjdbpr5W?usp=sharing)<br>
-   - Place the `.pt` files into `DeepfakeDetection/static/img/models/` and `DeepfakeDetection/models`.
+   - Place the `.pt` files into `Deepfake-Detection/static/img/models/` and `Deepfake-Detection/models`.
 
 4. **Run the Web App**
 
