@@ -96,9 +96,3 @@ Made with by Shubhankar Gupta   <a href="mailto:shubhankargupta200309@gmail.com"
 </p>
 
 ---
-
-<p align="center">
-Made with ❤️ by Priyanka Kumari 
-</p>
-
----
