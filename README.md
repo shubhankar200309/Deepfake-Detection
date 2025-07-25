@@ -90,13 +90,10 @@ A Flask-powered web application that uses PyTorch, OpenCV, and a custom ResNeXt�
 
 ---
 
-## Show Your Support ❤️
-If you find this project useful, please give it a ⭐ on GitHub and share it with fellow developers!
-
----
-
-## Contact ✉
-Email : priyanka.tmsl2022@gmail.com
+<p align="center">
+Made with by Shubhankar Gupta   <a href="mailto:shubhankargupta200309@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff3625" alt="Email">
+</p>
 
 ---
 
