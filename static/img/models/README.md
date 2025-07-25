@@ -5,7 +5,7 @@ This folder contains trained PyTorch models for **Deepfake Face Detection** base
 * Accuracy levels (`acc_84` to `acc_97`, i.e, 84% to 97%) 
 * Input video frame counts (`10` to `100` frames)
 * Datasets (FF++ and CelebDF)
-* Folder Location : `DeepfakeDetection/static/img/models/` *(excluded from GitHub due to size constraints)*
+* Folder Location : `Deepfake-Detection/static/img/models/` *(excluded from GitHub due to size constraints)*
 
 ---
 
@@ -30,7 +30,7 @@ This folder contains trained PyTorch models for **Deepfake Face Detection** base
 - You can download all models from this [link](https://drive.google.com/drive/folders/1cPd5iYyPtB_B2J3sJgnZ0GmcLjdbpr5W?usp=sharing).
 - After downloading, **place all `.pt` files inside**:
   ```
-  DeepfakeDetection/static/img/models/
+  Deepfake-Detection/static/img/models/
   ```
 - In your Python code (inside `app.py`), load any model like this:
   ```python
